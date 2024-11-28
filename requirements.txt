@@ -1,0 +1,8 @@
+firebase-admin
+face-recognition
+opencv-python
+PyQt5
+pandas
+numpy
+ultralytics
+dlib

@@ -1,0 +1,4 @@
+venv
+D:\LVTN_FR\data\models\yolov8n-face.pt
+D:\LVTN_FR\data\models\shape_predictor_68_face_landmarks.dat
+serviceAccountKey.json
